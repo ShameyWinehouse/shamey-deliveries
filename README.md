@@ -9,6 +9,7 @@ Beat the clock to deliver the goods safely!
 - "Hazard" route with explosives (and actual explosions upon crash)
 - Anti-cheat (detects & prevents players from using the auto-navigation in Cinematic camera mode)
 - Highly configurable (origin spots, destinations, timers, payouts, vehicle)
+- Discord logging (via webhook)
 - Organized & documented
 - Performant
 
